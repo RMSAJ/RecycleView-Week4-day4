@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">affirmations</string>
+    <string name="affirmation0">محرم</string>
+    <string name="affirmation1">صفر</string>
+    <string name="affirmation2">"ربيع الأول. "</string>
+    <string name="affirmation3">"جُمادى الأولى. "</string>
+    <string name="affirmation4">"جُمادى الأولى. "</string>
+    <string name="affirmation5">"جُمادى الآخرة. "</string>
+    <string name="affirmation6">رجب</string>
+    <string name="affirmation7">شعبان</string>
+    <string name="affirmation8">رمضان</string>
+    <string name="affirmation9">شوال</string>
+    <string name="affirmation10">ذو القعدة</string>
+    <string name="affirmation11">" ذو الحجة"</string>
+</resources>
